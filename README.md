@@ -22,7 +22,7 @@ python main.py
 ## Project Structure
 
 ```
-Millionaire-Game/
+python-millionaire-game/
 │
 ├── main.py
 └── README.md
